@@ -14,6 +14,23 @@
 		{
 			"Name": "ChaosVehiclesPlugin",
 			"Enabled": true
+		},
+		{
+			"Name": "ErrantLandscape",
+			"Enabled": true
+		},
+		{
+			"Name": "ErrantPaths",
+			"Enabled": true
+		},
+		{
+			"Name": "ErrantBiomes",
+			"Enabled": true
+		},
+		{
+			"Name": "InventorySystemX",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/b804d0c431f9433d972a1aa95a6641e6"
 		}
 	]
 }
